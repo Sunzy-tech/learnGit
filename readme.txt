@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 creating a new branch is quick and simple.
-test: git merge --no--ff -m "" <branch>
+test: git merge --no-ff -m "" <branch>
+new dev
